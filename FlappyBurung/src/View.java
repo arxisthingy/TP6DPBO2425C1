@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 public class View extends JPanel {
     // dimensions
-    int width = 360
+    int width = 360;
     int height = 640;
 
     // reference to logic
