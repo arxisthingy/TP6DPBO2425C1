@@ -7,7 +7,7 @@ Program implementasi game Flappy Bird yang dibuat menggunakan Java Swing GUI.
 
 ## Controls  
 Space - Lompat Burung  
-R - Restart Game
+R - Restart Game  
 M - Main Menu  
 
 ## Desain Program  
