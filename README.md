@@ -11,15 +11,15 @@ R - Restart Game
 M - Main Menu  
 
 ## Desain Program  
-- ### App.java  
+- **App.java**  
   Class utama untuk menjalankan aplikasi Flappy Bird.
-- ### View.java
+- **View.java**
   Class yang berfungsi untuk menggambar (_draw graphics_) semua elemen game (burung, pipa, background, skor, main menu, dan teks di window app.  
-- ### Logic.java
+- **Logic.java**
   Class yang berisi semua logika dan fungsi dari game. 
-- ### Pipe.java
+- **Pipe.java**
   Class yang merepresentasikan objek pipa yang berisikan atribut posisi, dimensi, gambar, state terlewati (``passed``)  
-- ### Player.java
+- **Player.java**
   Class yang merepresentasikan objek player yang berisikan atribut posisi, dimensi, gambar, dan kecepatan vertikal dalam axis Y (``velocityY``)
 
 ## Alur Program  
