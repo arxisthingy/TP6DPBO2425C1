@@ -38,7 +38,7 @@ M - Main Menu
   Ia memanggil ``createMenuButtons()``, yang membuat tombol "Start Game" dan "Exit Game".  
   Ia mendaftarkan logic sebagai KeyListener-nya, sehingga Logic akan menerima input keyboard.  
 - **Menghubungkan Logic dan View**  
-  logic.setView(view) dipanggil untuk memberi tahu Logic panel View mana yang harus digambar ulang.  
+  ``logic.setView(view)`` dipanggil untuk memberi tahu Logic panel View mana yang harus digambar ulang.  
 - **Menampilkan Jendela**  
   View ditambahkan ke JFrame, jendela ditampilkan ``setVisible(true)``, dan ``view.requestFocus()`` dipanggil agar panel View fokus dan bisa menerima input keyboard.
 
